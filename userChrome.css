@@ -1,0 +1,7 @@
+/* Hide the toolbar */
+#toolbar { visibility: collapse; }
+
+/* Optional: Hide the titlebar */
+#titlebar { visibility: collapse; }
+
+#nav-bar { visibility: collapse !important; }
