@@ -6,7 +6,7 @@ A minimal AI chat interface configuration that removes the LibreWolf/Firefox too
 
 - Clean, distraction-free chat interface
 - Removes browser toolbar using custom userChrome.css (you can just ```$mainMod + C``` and only focus to the chat within the Hyprland window)
-- It gives the feeling you're not in a browser you're just looking to the window
+- It gives the feeling you're not in a browser you're just looking to the chat's window
 - Quick keyboard shortcut integration with Hyprland
 - You can use this with any ```tiling window manager```
 
