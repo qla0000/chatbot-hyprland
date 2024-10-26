@@ -1,4 +1,4 @@
-# LibreWolf AI Chat for Hyprland
+# AI chat Hyprland window
 
 A minimal AI chat interface configuration that removes the LibreWolf/Firefox toolbar for a clean chat-only experience.
 
