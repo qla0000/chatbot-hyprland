@@ -5,3 +5,10 @@
 #titlebar { visibility: collapse; }
 
 #nav-bar { visibility: collapse !important; }
+
+#TabsToolbar { display: none; }
+
+/* Hides sidebar header */
+#sidebar-box #sidebar-header {
+  display: none !important;
+}
